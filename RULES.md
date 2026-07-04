@@ -2,23 +2,32 @@
 
 ## Consulta Individual
 
-- Dá direito a 1 retorno.
-- O retorno deve ocorrer em até 6 meses.
+- Dá direito a um retorno gratuito.
+- O retorno pode ser utilizado em até 6 meses.
+
+## Consulta com Planejamento Alimentar
+
+- Dá direito a um retorno gratuito.
+- O retorno pode ser utilizado em até 6 meses.
 
 ## Pacote Básico
 
-- 2 retornos incluídos.
+- Inclui 3 atendimentos:
+  - 1 consulta inicial
+  - 2 retornos
 
 ## Pacote Premium
 
-- 2 retornos incluídos.
+- Inclui 3 atendimentos:
+  - 1 consulta inicial
+  - 2 retornos
 
-## Retorno
+## Pagamento
 
-- Só pode ser utilizado se houver plano ativo
-  ou retorno avulso disponível.
+- Todos os agendamentos exigem um sinal de R$ 100,00.
+- O sinal é pago via PIX.
+- Pagamentos via PIX possuem emissão de nota fiscal.
 
-## Sinal
 
-- R$100
-- PIX
+
+
